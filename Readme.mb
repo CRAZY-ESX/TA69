@@ -1,0 +1,65 @@
+<h1 align="center">📡 TA69 VVIP DDOS</h1> 
+
+<h1>OUT TELEGRAM CHANNEL [ https://t.me/THEANON69</h1>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Made%20with Nodejs-1f425f.svg"> <img src="https://img.shields.io/github/forks/CRAZY-ESX/TB69?style=social"> <img src="https://img.shields.io/github/stars/CRAZY-ESX/TB69?style=social">
+
+</div>
+<div align="center">
+  
+</div>
+<p align="center">
+  <img src="img/preview.gif">
+
+  ---
+<div align="center">
+  <br>
+  <h2>Linux</h2><br>
+</div>
+
+```
+sudo apt update
+sudo apt install node
+sudo apt install npm 
+git clone https://github.com/CRAZY-ESX/TB69
+cd TB69 
+unzip TB69.zip
+unzip 2nd.zip
+python TB69.py
+
+```
+
+---
+<div align="center">
+  <br>
+    <h2>Termux</h2><br>
+</div>
+
+```
+pkg update
+pkg install python3 python3-pip git -y
+
+git clone https://github.com/CRAZY-ESX/TB69
+cd TB69 
+node tb69.js
+
+next install all needed modules 
+
+```
+
+---
+<br>
+
+<div align="center">
+  <h2>Avaliable Attacks</h2><br>
+</div>
+- VVIP METHOD - SIXNINE
+
+<br>
+
+<div align="center">
+  <h2>⚠ Disclaimer</h2><br>
+</div>
+
+This application is intended to be used as a testing tool against your own servers. **DO NOT USE IT TO ATTACK OTHER PEOPLE**, we don't take responsibility for anything that may come up if you attqack someone else. Also, this project makes a `DoS` attack, if you want to take down well-hosted servers, then it's up to you to scale the attack using a `DDoS` approach. Know the limitations of what you can do, and the defense mechanism used by your target; for instance, if a webserver uses DDoS mitigation appliances (such as load balancing), then you'll probably fail to take it down; a router that implements SYN Cookies will not be affected by a SYN-Flood attack, and so on.
