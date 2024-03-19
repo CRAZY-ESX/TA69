@@ -744,7 +744,7 @@ function getRandomUserAgent() {
  process.setMaxListeners(0);
  require("events").EventEmitter.defaultMaxListeners = 0;
 
- if (process.argv.length < 7){console.log(`Method ddos by ANON 69 TEAM\n Usage: node tb69.js target time rate thread proxy.txt`); process.exit();}
+ if (process.argv.length < 7){console.log(`Method ddos by ANON 69 TEAM\n Usage: node ta69.js target time rate thread proxy.txt`); process.exit();}
  
  const defaultCiphers = crypto.constants.defaultCoreCipherList.split(":");
  const ciphers = "GREASE:" + [
